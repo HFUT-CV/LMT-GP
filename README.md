@@ -33,7 +33,9 @@ pip install -r requirements.txt
 python train.py
 ```
 ## Test
+```
 python test.py
+```
 # Acknowledgements
 * Thanks to the creators of [IQA-pytorch](https://github.com/chaofengc/IQA-PyTorch) for the awesome work ❤️
 * Thanks to the creators [Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) and [Syn2real](https://github.com/rajeevyasarla/Syn2Real) for providing such elegant codes ❤️
