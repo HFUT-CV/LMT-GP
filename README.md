@@ -9,6 +9,7 @@ we propose a semi-supervised method based on latent mean-teacher and Gaussian pr
 
 # Installation
 We are preparing an extended version. The core code "trainer.py" and "./loss/GP.py" is coming soon.
+
 The checkpoibnt can be used for inference ([BaiduYun](https://pan.baidu.com/s/1k0S7OKNG0kiCvMUoQZVKkA?pwd=gcs8)). 
 
 ## Dataset Structure
