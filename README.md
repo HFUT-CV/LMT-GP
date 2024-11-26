@@ -8,7 +8,8 @@ we propose a semi-supervised method based on latent mean-teacher and Gaussian pr
 
 
 # Installation
-<strike>Note that the core code "trainer.py" and "./loss/GP.py" is coming soon. </strike>
+We are preparing an extended version. The core code "trainer.py" and "./loss/GP.py" is coming soon.
+The checkpoibnt can be used for inference ([BaiduYun](https://pan.baidu.com/s/1k0S7OKNG0kiCvMUoQZVKkA?pwd=gcs8)). 
 
 ## Dataset Structure
 ```
@@ -32,7 +33,7 @@ python train.py
 ```
 python test.py
 ```
-The checkpoibnt can be found in [BaiduYun](https://pan.baidu.com/s/1k0S7OKNG0kiCvMUoQZVKkA?pwd=gcs8). 
+
 # Acknowledgements
 * Thanks to the creators of [IQA-pytorch](https://github.com/chaofengc/IQA-PyTorch) for the awesome work ❤️
 * Thanks to the creators [Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR), [Syn2real](https://github.com/rajeevyasarla/Syn2Real), and [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) for providing such elegant codes ❤️
