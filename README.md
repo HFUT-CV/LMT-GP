@@ -8,7 +8,7 @@ we propose a semi-supervised method based on latent mean-teacher and Gaussian pr
 
 
 # Installation
-~~Note that the core code "trainer.py" and "./loss/GP.py" is coming soon. 
+~~Note that the core code "trainer.py" and "./loss/GP.py" is coming soon. ~~
 
 ## Dataset Structure
 ```
